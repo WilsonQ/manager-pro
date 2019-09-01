@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sistema-control-stock
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# manager-pro
+Frontend con vue, vuex,vue-route,vuetify
+>>>>>>> 73a2a73dfc421991b69b7f5d7f456a4996ca7887
